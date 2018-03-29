@@ -82,3 +82,6 @@ app.listen(port, () => {
 // }, (e) => {
 //     console.log('unable to save todo')
 // }); 
+
+//starting database:
+//ty@gorilla:~/mongo/bin$ ./mongod --dbpath ~/mongo-data
